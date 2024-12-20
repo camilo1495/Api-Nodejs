@@ -1,0 +1,26 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "libro": "El señor de los anillos",
+            "autor": "J.R.R. Tolkien",
+            "año": 1954,
+            "editorial": "Minotauro",
+            "genero": "Fantasía",
+            "idioma": "Español",
+            "precio": 20000,
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "libro": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "año": 1967,
+            "editorial": "Sudamericana",
+            "genero": "Realismo mágico",
+            "idioma": "Español",
+            "precio": 15000,
+            "stock": 5
+        }
+    ]
+}
